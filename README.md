@@ -4,6 +4,7 @@
 
 A simple, responsive, and efficient tax calculator built with vanilla JavaScript, HTML, and CSS.
 
+This is a revised version of tax_app_windsurf repo based on Gemini 2.5 recommendations.
 ## Features
 
 * **Real-time Calculation:** See tax estimations update instantly as you type.
